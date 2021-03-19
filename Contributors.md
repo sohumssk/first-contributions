@@ -171,6 +171,7 @@
 - [Outlander] (https://github.com/sujilgovind)
 - Darshan Aravind (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
+- [Sohum Kulkarni] (https://github.com/sohumssk)
 - [Shanna Estj] (https://github.com/shannaestj)
 - Patrick M Copeland
 - Riley D Benson
